@@ -3,7 +3,7 @@
 
 
 <table>
-    <thead>Table of Contents</thead>
+    <thead><th>Table of Contents</th></thead>
     <tbody>
         <tr><th><a href="#bintext">Bintext</a></th></tr>
         <tr><th><a href="#cffExplorer">CFF Explorer</a></th></tr>
@@ -21,4 +21,39 @@
         <tr><th><a href="#fileAlyzer">FileAlyzer</a></th></tr>
         <tr><th><a href="#ssdeep">SSDEEP</a></th></tr>
     </tbody>
+</table>
+
+<table>
+    <thead><th>Bintext</th></thead>
+    <tbody>
+        <tr><th>Tool</th>
+            <th>Bintext</th>
+        </tr>
+        <tr>
+            <th>URL</th>
+            <td><div><a href="">asdf</a></div></td>
+        </tr>
+        <tr>
+            <th>Target</th>
+            <td><div>asdf</div></td>
+        </tr>
+        <tr>
+            <th>Cost</th>
+            <td><div>asdf</div></td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td><div>asdf</div></td>
+        </tr>
+        <tr>
+            <th>Useful For</th>
+            <td><div>asdf</div></td>
+        </tr>
+        <tr>
+            <th>Similar Tools</th>
+            <td><div>asdf</div></td>
+        </tr>
+
+        
+</tbody>
 </table>
