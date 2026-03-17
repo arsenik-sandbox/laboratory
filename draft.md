@@ -1,8 +1,9 @@
 # Static Analysis
 
-# Table of Contents
+
 
 <table>
+    <thead>Table of Contents</thead>
     <tbody>
         <tr><th><a href="#bintext">Bintext</a></th></tr>
         <tr><th><a href="#cffExplorer">CFF Explorer</a></th></tr>
