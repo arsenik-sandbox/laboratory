@@ -24,7 +24,7 @@
 </table>
 
 <table>
-    <thead><th>Bintext</th></thead>
+    <thead><th id="bintext">Bintext</th></thead>
     <tbody>
         <tr><th>Tool</th>
             <th>Bintext</th>
