@@ -3,10 +3,10 @@
 # Table of Contents
 
 <table>
-    <thead>
-        <tr><a>asd</a></tr>
-        <tr><a>asda</a></tr>
-        <tr><a>asd</a></tr>
-        <tr><a>asda</a></tr>
-    </thead>
+    <tbody>
+        <tr><td><a>asd</a></td></tr>
+        <tr><td><a>asd</a></td></tr>
+        <tr><td><a>asd</a></td></tr>
+        <tr><td><a>asd</a></td></tr>
+    </tbody>
 </table>
