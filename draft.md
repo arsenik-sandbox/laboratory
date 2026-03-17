@@ -20,6 +20,5 @@
         <tr><th><a href="#hxd">HxD</a></th></tr>
         <tr><th><a href="#fileAlyzer">FileAlyzer</a></th></tr>
         <tr><th><a href="#ssdeep">SSDEEP</a></th></tr>
-
     </tbody>
 </table>
