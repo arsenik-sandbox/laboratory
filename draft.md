@@ -4,9 +4,9 @@
 
 <table>
     <tbody>
-        <tr><td><a>asd</a></td></tr>
-        <tr><td><a>asd</a></td></tr>
-        <tr><td><a>asd</a></td></tr>
-        <tr><td><a>asd</a></td></tr>
+        <tr><th><a>asd</a></th></tr>
+        <tr><th><a>asd</a></th></tr>
+        <tr><th><a>asd</a></th></tr>
+        <tr><th><a>asd</a></th></tr>
     </tbody>
 </table>
