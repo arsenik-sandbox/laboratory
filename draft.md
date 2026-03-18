@@ -31,29 +31,69 @@
         </tr>
         <tr>
             <th>URL</th>
-            <td><div><a href="">asdf</a></div></td>
+            <td><div><a href="https://www.aldeid.com/wiki/BinText">BinText - aldeid</a></div></td>
         </tr>
         <tr>
             <th>Target</th>
-            <td><div>asdf</div></td>
+            <td><div>Windows EXE/PE files</div></td>
         </tr>
         <tr>
             <th>Cost</th>
-            <td><div>asdf</div></td>
+            <td><div>Free</div></td>
         </tr>
         <tr>
             <th>Description</th>
-            <td><div>asdf</div></td>
+            <td><div><ul><li>Finds Ascii, Unicode and Resource strings in a file</li></ul></div></td>
         </tr>
         <tr>
-            <th>Useful For</th>
+            <th>Useful for</th>
+            <td><div><ul><li>Finding unpacked/unencrypted strings in a file</li></ul></div></td>
+        </tr>
+        <tr>
+            <th>Similar Tools</th>
+            <td><div>strings</div></td>
+        </tr>        
+    </tbody>
+</table>
+
+<table>
+    <thead><th id="cffExplorer">CFF Explorer</th></thead>
+    <tbody>
+        <tr><th>Tool</th>
+            <th>CFF Explorer</th>
+        </tr>
+        <tr>
+            <th>URL</th>
+            <td><div><a href="https://ntcore.com/explorer-suite/">Explorer Suite – NTCore</a></div></td>
+        </tr>
+        <tr>
+            <th>Target</th>
+            <td><div>Windows EXE/PE files</div></td>
+        </tr>
+        <tr>
+            <th>Cost</th>
+            <td><div>Free</div></td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td><div>
+                    <ul>
+                        <li>shows header information</li>
+                        <li>import functions</li>
+                        <li>hex editor</li>
+                        <li>quick disassembler</li>
+                    </ul>
+                </div></td>
+        </tr>
+        <tr>
+            <th>Useful for</th>
             <td><div>asdf</div></td>
         </tr>
         <tr>
             <th>Similar Tools</th>
             <td><div>asdf</div></td>
-        </tr>
-
-        
-</tbody>
+        </tr>        
+    </tbody>
 </table>
+
+
