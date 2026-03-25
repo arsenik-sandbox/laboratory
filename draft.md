@@ -228,7 +228,7 @@
         </tr>
         <tr>
             <th>URL</th>
-            <td><div><a href="https://hshrzd.wordpress.com/pe-bear/">PE-bear</a></div></td>
+            <td><div><a href="https://github.com/hasherezade/pe-bear">PE-bear - hasherezade</a></div></td>
         </tr>
         <tr>
             <th>Target</th>
@@ -266,7 +266,7 @@
         </tr>
         <tr>
             <th>URL</th>
-            <td><div><a href="https://ibotpeaches.github.io/Apktool/">Apktool - A tool for reverse engineering 3rd party, closed, binary Android apps</a></div></td>
+            <td><div><a href="[https://ibotpeaches.github.io/Apktool/](https://github.com/iBotPeaches/Apktool)">Apktool - iBotPeaches</a></div></td>
         </tr>
         <tr>
             <th>Target</th>
@@ -299,7 +299,7 @@
         </tr>
         <tr>
             <th>URL</th>
-            <td><div><a href="https://github.com/horsicq/Detect-It-Easy">Detect it Easy - NTInfo</a></div></td>
+            <td><div><a href="https://github.com/horsicq/Detect-It-Easy">Detect it Easy - NTInfo(horsicq)</a></div></td>
         </tr>
         <tr>
             <th>Target</th>
@@ -332,7 +332,7 @@
         </tr>
         <tr>
             <th>URL</th>
-            <td><div><a href=""></a></div></td>
+            <td><div><a href="https://labex.io/tutorials/linux-linux-strings-command-with-practical-examples-422934">Strings</a></div></td>
         </tr>
         <tr>
             <th>Target</th>
@@ -365,7 +365,7 @@
         </tr>
         <tr>
             <th>URL</th>
-            <td><div><a href="fireeye.com/services/freeware/floss.html">FLOSS - FireEye</a></div></td>
+            <td><div><a href="https://github.com/mandiant/flare-floss">FLOSS - FireEye</a></div></td>
         </tr>
         <tr>
             <th>Target</th>
@@ -503,7 +503,7 @@
         </tr>
         <tr>
             <th>URL</th>
-            <td><div><a href="https://www.safer-networking.org/de/products/filealyzer/">FileAlyzer - Spybot Anti-Malware and Antivirus : Spybot Anti-Malware and Antivirus</a></div></td>
+            <td><div><a href="https://www.safer-networking.org/products/filealyzer/">FileAlyzer - Safer-Networking</a></div></td>
         </tr>
         <tr>
             <th>Target</th>
@@ -545,7 +545,7 @@
         </tr>
         <tr>
             <th>URL</th>
-            <td><div><a href="https://ssdeep-project.github.io/ssdeep/index.html">	ssdeep - Fuzzy hashing program</a></div></td>
+            <td><div><a href="https://ssdeep-project.github.io/ssdeep/index.html">	SSDEEP Project</a></div></td>
         </tr>
         <tr>
             <th>Target</th>
